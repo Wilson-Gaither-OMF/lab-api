@@ -1,4 +1,10 @@
-# Hello World API
+> **NOTE**  
+    > Using Github Co-Pilot to help write README is a great time saving feature.. We'll talk more about Github Co-Pilot later. 
+
+    Copy/Paste the following into your README.md. 
+
+    ```txt
+    # Hello World API
 
     Welcome to the Hello World API! This project is a simple API designed to help you learn and practice essential GitOps concepts, including Git, Docker, and Ansible. The API serves as a foundation for exploring modern development workflows and tools.
 
@@ -10,14 +16,14 @@
     - Configurable and deployable using Ansible.
 
     ## Project Structure
-
+    ```
     lab-api/
     ├── Dockerfile       # Docker configuration for containerizing the API
     ├── README.md        # Project documentation
     ├── .gitignore       # Files and directories to ignore in Git
     ├── src/             # Source code for the API
     └── tests/           # Unit tests for the API
-
+    ```
     ## Getting Started
 
     ### Prerequisites
@@ -36,3 +42,4 @@
     ## License
 
     This project is licensed under the MIT License. See the `LICENSE` file for details.
+    ```
